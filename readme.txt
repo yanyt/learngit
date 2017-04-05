@@ -6,8 +6,8 @@ Git is free software.
 33
 
 
-
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+>>>>>>> feature1
 
 
 
